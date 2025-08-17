@@ -1,0 +1,48 @@
+						HOW TO PLAY
+*	Players will take turn to roll the dices.
+*	Each turn a player will roll 6 dices at once.
+*	The players will gain score through rolling a combination of dices, these are called melds.
+*	Below are the melds
+	o	Rolls five: if a player rolls a die of 5, the player will score 50 points.
+	o	Rolls one: if a player rolls a die of 1, the player will score 100 points.
+	o	Three ones: if a player rolls 3 dice of 1, the player will score 300 points.
+	o	Three twos: if a player rolls 3 dice of 2, the player will score 200points.
+	o	Three threes: if a player rolls 3 dice of 3, the player will score 300 points.
+	o	Three fours: if a player rolls 3 dice of 4, the player will score 400 points.
+	o	Three fives: if a player rolls 3 dice of 5, the player will score 500 points.
+	o	Three sixes: if a player rolls 3 dice of 6, the player will score 600 points.
+	o	Four of a kind: if a player rolls 4 dice of the same number the player will score 1000 points.
+	o	Five of a kind: if a player rolls 5 dice of the same number, the player will score 2000 points.
+	o	Six of a kind: if a player rolls 6 dice of the same number, the player will score 3000 points.
+	o	Run/1-6 straight: if a player rolls 6 dice with different number each, the player will score 2500 
+		points.
+	o	Three pairs: if a player rolls 3 pairs of dice the player will score 1500 points.
+	o	Four of a kind + pair: if a player rolls 4 dice of the same number and a pair, the player will score 
+		1500 points.
+	o	Two triplets: if a player rolls 2 set of 3 dice of the same number, the player will score 2500 points.
+*	The player can choose which dice to keep so the player can score points, but if the player wants to re-roll
+	the dice, the player must store at least 1 dice.
+*	The player can keep rolling the dice and gain scores as long as the player rolls a meld.
+*	The turn will end if the player decides to bank his score or the player rolls the dices with no combination 
+	(meld), this is called a farkle.
+*	If all dice has scored the player can re-roll all dice to gain more points.
+*	If a player hits a farkle, the player will not gain any points in that turn.
+*	If a player hit a farkle 3 times in a row, the player will automatically lose.
+*	If a player chooses to score, the running score will be added to the total score of the player.
+*	In default the target score will be 5000 points.
+*	Whoever score reached the target score first wins.
+
+*	Here is an instance of a player's turn.
+	o	A player rolls 2,4,2,1,5,2
+	o	The player gets to choose which dice he want to keep for this instance the player chooses 2 and 1.
+	o	The player will gain 200 points from triple 2 plus 100 points from 1, the kept dices are 2,2,2 and 1.
+		So the player still have 2 dice to re-roll or he can score his points.
+	o	If the player decides to re-roll and hits a farkle, the turn ends and the player will not gain any
+		points for that turn.
+	o	If a player hits a farkle 3 times in a row, the player will be automatically eliminated from the game.
+	o	If the player decides to re-roll and hits other melds, with the remaining dices, the player gets to
+		choose whether he wants to re-roll all six dices or score their current running score.
+	o	If the player decides to score, the running score will be added to the total score and the player's turn
+		ends.
+
+*	Thats all the Rules about, Good Luck and Have Fun!
