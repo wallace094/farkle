@@ -18,8 +18,6 @@ Farkle is a fast-paced dice game where players roll six dice each turn, trying t
 - **Scoring Mechanics**: Supports standard scoring rules (e.g., 1s, 5s, triples, straights) and handles turn-based decision logic.
 - **Console Output**: Likely shows roll results, scoring decisions, and turn outcomes interactively.
 
-*(Note: Since the repository content isn't fully visible, you'd want to review and refine this section with details like classes, input handling, and game loop logic.)*
-
 ##  Getting Started
 
 Quick setup to run the game:
