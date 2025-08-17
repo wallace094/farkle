@@ -9,7 +9,6 @@ Farkle is a fast-paced dice game where players roll six dice each turn, trying t
 ##  Project Overview
 
 - **Language:** C++
-- Likely structured as part of an academic assignment, given commit messages like `Assignment 3` and the inclusion of `.sln` and `.docx` files.
 
 ##  Features (Potential / To Be Confirmed)
 
