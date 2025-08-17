@@ -4,12 +4,12 @@
 
 ##  What Is Farkle?
 
-Farkle is a fast-paced dice game where players roll six dice each turn, trying to score points through specific combinations (like 1s, 5s, three-of-a-kind, straights, etc.). Roll a non-scoring combination, and you “Farkle”—losing all the points accumulated that turn. :contentReference[oaicite:0]{index=0}
+Farkle is a fast-paced dice game where players roll six dice each turn, trying to score points through specific combinations (like 1s, 5s, three-of-a-kind, straights, etc.). Roll a non-scoring combination, and you “Farkle”—losing all the points accumulated that turn.
 
 ##  Project Overview
 
-- **Language:** C++ :contentReference[oaicite:1]{index=1}  
-- Likely structured as part of an academic assignment, given commit messages like `Assignment 3` and the inclusion of `.sln` and `.docx` files. :contentReference[oaicite:2]{index=2}  
+- **Language:** C++
+- Likely structured as part of an academic assignment, given commit messages like `Assignment 3` and the inclusion of `.sln` and `.docx` files.
 
 ##  Features (Potential / To Be Confirmed)
 
